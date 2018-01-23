@@ -190,9 +190,9 @@ O código, os commits e os comentários devem ser em inglês.
 Adicione exemplos para sua nova feature.
 
 Referências
-  * documentação SIGEP : http://www.corporativo.correios.com.br/encomendas/sigepweb/doc/Manual_de_Implementacao_do_Web_Service_SIGEPWEB_Logistica_Reversa.pdf
+  * documentação SIGEP : https://github.com/hantys/correios_api/raw/master/docs/Manual%20de%20Implementacao%20do%20Web%20Service%20SIGEPWEB%20-12-01-2017.pdf
   * documentação para calculo de frete: http://www.correios.com.br/para-voce/correios-de-a-a-z/pdf/calculador-remoto-de-precos-e-prazos/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos
   
-  [documentação SIGEP]: http://www.corporativo.correios.com.br/encomendas/sigepweb/doc/Manual_de_Implementacao_do_Web_Service_SIGEPWEB_Logistica_Reversa.pdf
+  [documentação SIGEP]: https://github.com/hantys/correios_api/raw/master/docs/Manual%20de%20Implementacao%20do%20Web%20Service%20SIGEPWEB%20-12-01-2017.pdf
   [documentação para calculo de frete]: http://www.correios.com.br/para-voce/correios-de-a-a-z/pdf/calculador-remoto-de-precos-e-prazos/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos
   
