@@ -22,10 +22,9 @@ Gem::Specification.new do |spec|
 	spec.add_dependency "recursive-open-struct"
 	spec.add_dependency "active_data"
 
-	spec.add_dependency 'net-http-persistent'
+	spec.add_dependency 'net-http-persistent', "< 3.0"
 	spec.add_dependency 'rack'
 	spec.add_dependency 'savon'
-	spec.add_dependency 'coveralls'
 	spec.add_dependency 'simplecov'
 	spec.add_dependency 'webmock'
 
